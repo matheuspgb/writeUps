@@ -6,4 +6,5 @@ Este repositório reúne os writeups e as anotações dos laboratórios que reso
 
 O objetivo é registrar o raciocínio por trás de cada exploração (reconhecimento, identificação da falha, exploração e lições aprendidas), servindo como material de consulta pessoal e como portfólio público da minha evolução na área.
 
+Nota: Para fins educacionais
 **
